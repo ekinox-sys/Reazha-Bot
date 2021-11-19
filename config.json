@@ -1,0 +1,22 @@
+{
+    "token": "", // Token
+    "prefix": ".", // Prefix 
+    "geliştiricler": "852901991722123274", // Geliştirici ID
+    "gif": "https://cdn.discordapp.com/attachments/852906222826422302/886004788603551835/standard_2.gif", // Botun Banner
+    "mongoDB": "", // Mongo DB Bağlantısı
+
+
+    
+    
+    
+    
+    "seskanal": "", // Botun gireceği ses kanalı
+    
+ 
+    
+    "dmlog": "", // Botun DM Log'u
+    "eklendimlog": "", // Eklendim Log
+    "atıldımlog": "", // Atıldım Log
+    "buglog": ""  // Bug Log
+
+}
